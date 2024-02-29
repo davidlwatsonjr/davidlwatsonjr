@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Check out my resume at [resume.davidlwatsonjr.com](https://resume.davidlwatsonjr.com/)
+
+Have a look at [my LinkedIn profile.](https://www.linkedin.com/in/davidlwatsonjr/)
 <!--
 **davidlwatsonjr/davidlwatsonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
